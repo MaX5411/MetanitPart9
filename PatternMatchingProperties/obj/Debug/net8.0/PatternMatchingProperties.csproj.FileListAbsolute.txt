@@ -1,0 +1,15 @@
+c:\dev\net-projects\MetanitPart9\PatternMatchingProperties\bin\Debug\net8.0\PatternMatchingProperties.exe
+c:\dev\net-projects\MetanitPart9\PatternMatchingProperties\bin\Debug\net8.0\PatternMatchingProperties.deps.json
+c:\dev\net-projects\MetanitPart9\PatternMatchingProperties\bin\Debug\net8.0\PatternMatchingProperties.runtimeconfig.json
+c:\dev\net-projects\MetanitPart9\PatternMatchingProperties\bin\Debug\net8.0\PatternMatchingProperties.dll
+c:\dev\net-projects\MetanitPart9\PatternMatchingProperties\bin\Debug\net8.0\PatternMatchingProperties.pdb
+c:\dev\net-projects\MetanitPart9\PatternMatchingProperties\obj\Debug\net8.0\PatternMatchingProperties.GeneratedMSBuildEditorConfig.editorconfig
+c:\dev\net-projects\MetanitPart9\PatternMatchingProperties\obj\Debug\net8.0\PatternMatchingProperties.AssemblyInfoInputs.cache
+c:\dev\net-projects\MetanitPart9\PatternMatchingProperties\obj\Debug\net8.0\PatternMatchingProperties.AssemblyInfo.cs
+c:\dev\net-projects\MetanitPart9\PatternMatchingProperties\obj\Debug\net8.0\PatternMatchingProperties.csproj.CoreCompileInputs.cache
+c:\dev\net-projects\MetanitPart9\PatternMatchingProperties\obj\Debug\net8.0\PatternMatchingProperties.sourcelink.json
+c:\dev\net-projects\MetanitPart9\PatternMatchingProperties\obj\Debug\net8.0\PatternMatchingProperties.dll
+c:\dev\net-projects\MetanitPart9\PatternMatchingProperties\obj\Debug\net8.0\refint\PatternMatchingProperties.dll
+c:\dev\net-projects\MetanitPart9\PatternMatchingProperties\obj\Debug\net8.0\PatternMatchingProperties.pdb
+c:\dev\net-projects\MetanitPart9\PatternMatchingProperties\obj\Debug\net8.0\PatternMatchingProperties.genruntimeconfig.cache
+c:\dev\net-projects\MetanitPart9\PatternMatchingProperties\obj\Debug\net8.0\ref\PatternMatchingProperties.dll
