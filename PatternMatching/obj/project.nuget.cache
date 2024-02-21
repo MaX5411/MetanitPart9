@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6lZzc1MBIc7l2ztVHWxwWLmXtKtD7EEfDII23Nv5ZKQ1vkphLhbhKysWxe7sccr9L1+M4WqnMOGmOwSp3xuGBg==",
+  "dgSpecHash": "J3mket5JshdYT1Ey62xE2puo3KXlnSQkBwXBAepbA+BVs1qy7ESOforOBDbAaGVGwXNplPu3/jgKwJEok05crw==",
   "success": true,
-  "projectFilePath": "c:\\dev\\net-projects\\MetanitPart9\\PatternMatching\\PatternMatching.csproj",
+  "projectFilePath": "C:\\dev\\net-projects\\MetanitPart9\\PatternMatching\\PatternMatching.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\dev\\net-projects\\MetanitPart9\\PatternMatchingProperties\\PatternMatchingProperties.csproj": {}
+    "C:\\dev\\net-projects\\MetanitPart9\\PatternMatchingProperties\\PatternMatchingProperties.csproj": {}
   },
   "projects": {
-    "c:\\dev\\net-projects\\MetanitPart9\\PatternMatchingProperties\\PatternMatchingProperties.csproj": {
+    "C:\\dev\\net-projects\\MetanitPart9\\PatternMatchingProperties\\PatternMatchingProperties.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\dev\\net-projects\\MetanitPart9\\PatternMatchingProperties\\PatternMatchingProperties.csproj",
+        "projectUniqueName": "C:\\dev\\net-projects\\MetanitPart9\\PatternMatchingProperties\\PatternMatchingProperties.csproj",
         "projectName": "PatternMatchingProperties",
-        "projectPath": "c:\\dev\\net-projects\\MetanitPart9\\PatternMatchingProperties\\PatternMatchingProperties.csproj",
+        "projectPath": "C:\\dev\\net-projects\\MetanitPart9\\PatternMatchingProperties\\PatternMatchingProperties.csproj",
         "packagesPath": "C:\\Users\\Ivashchenko_MA\\.nuget\\packages\\",
-        "outputPath": "c:\\dev\\net-projects\\MetanitPart9\\PatternMatchingProperties\\obj\\",
+        "outputPath": "C:\\dev\\net-projects\\MetanitPart9\\PatternMatchingProperties\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

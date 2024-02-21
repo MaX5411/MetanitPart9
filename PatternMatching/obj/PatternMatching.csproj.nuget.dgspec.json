@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\dev\\net-projects\\MetanitPart9\\PatternMatching\\PatternMatching.csproj": {}
+    "C:\\dev\\net-projects\\MetanitPart9\\PatternMatching\\PatternMatching.csproj": {}
   },
   "projects": {
-    "c:\\dev\\net-projects\\MetanitPart9\\PatternMatching\\PatternMatching.csproj": {
+    "C:\\dev\\net-projects\\MetanitPart9\\PatternMatching\\PatternMatching.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\dev\\net-projects\\MetanitPart9\\PatternMatching\\PatternMatching.csproj",
+        "projectUniqueName": "C:\\dev\\net-projects\\MetanitPart9\\PatternMatching\\PatternMatching.csproj",
         "projectName": "PatternMatching",
-        "projectPath": "c:\\dev\\net-projects\\MetanitPart9\\PatternMatching\\PatternMatching.csproj",
+        "projectPath": "C:\\dev\\net-projects\\MetanitPart9\\PatternMatching\\PatternMatching.csproj",
         "packagesPath": "C:\\Users\\Ivashchenko_MA\\.nuget\\packages\\",
-        "outputPath": "c:\\dev\\net-projects\\MetanitPart9\\PatternMatching\\obj\\",
+        "outputPath": "C:\\dev\\net-projects\\MetanitPart9\\PatternMatching\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

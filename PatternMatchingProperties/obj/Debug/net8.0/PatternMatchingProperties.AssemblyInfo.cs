@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PatternMatchingProperties")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d296f70889ce4ff5fdfa888a65db948a59443277")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5b31368f62ad6906e4c9d6f048826566521668c")]
 [assembly: System.Reflection.AssemblyProductAttribute("PatternMatchingProperties")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PatternMatchingProperties")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
